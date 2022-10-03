@@ -1,0 +1,24 @@
+pre {
+    border: 2px inset gray;
+    background-color: gray;
+    color: lightslategrey;
+}
+
+span {
+    color: lightgreen;
+}
+
+table {
+    color: lightgreen;
+    background-color: aquamarine;
+}
+
+textarea {
+    border : 2px inset gray;
+    background-color: beige;
+}
+
+form {
+    border : 2px inset gray;
+    background-color: beige;
+}

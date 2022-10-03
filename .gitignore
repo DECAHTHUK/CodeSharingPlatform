@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Code Sharing Platform/task/build/
+/Code Sharing Platform/task/out/
+/Code Sharing Platform/task/out/production/classes/
+/Topics/BigDecimal/Round and power/out/
+/Topics/BigDecimal/Round and power/out/production/classes/
+/Topics/Template method/Template Method/out/
+/Topics/Template method/Template Method/out/production/classes/
